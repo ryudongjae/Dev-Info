@@ -7,37 +7,37 @@
 | Blog Name | Link | Language |
 |-------|-------|-------|
 | **📍 Naver D2** | [바로가기](https://d2.naver.com/home) | KO |
-| **📍 라인 LY Corporation** | [바로가기](https://lnkd.in/gbfjuqss) | KO |
-| **📍 카카오** | [바로가기](https://lnkd.in/g9Yd2auS) | KO |
+| **📍 라인 LY Corporation** | [바로가기](https://techblog.lycorp.co.jp/ko) | KO |
+| **📍 카카오** | [바로가기](https://tech.kakao.com/blog/) | KO |
 | **📍 카카오페이** | [바로가기](https://tech.kakaopay.com/) | KO |
-| **📍 카카오스타일** | [바로가기](https://lnkd.in/g4JJUcfg) | KO |
+| **📍 카카오스타일** | [바로가기](https://devblog.kakaostyle.com/ko/) | KO |
 | **📍 카카오뱅크** | [바로가기](http://tech.kakaobank.com/) | KO |
 | **📍 쿠팡** | [바로가기](https://lnkd.in/g257Anps) | KO |
 | **📍 삼성** | [바로가기](https://lnkd.in/gisFG9_6) | KO |
 | **📍 현대자동차** | [바로가기](https://42dot.ai/blog) | KO |
-| **📍 요기요** | [바로가기](https://lnkd.in/g8FUwHPb) | KO |
-| **📍 마켓컬리** | [바로가기](https://lnkd.in/g422dQW5) | KO |
-| **📍 중고나라** | [바로가기](https://lnkd.in/gdAAg2fz) | KO |
-| **📍 여기어때** | [바로가기](https://lnkd.in/gzJu-278) | KO |
-| **📍 데브시스터즈** | [바로가기](https://lnkd.in/giaGmY5S) | KO |
+| **📍 요기요** | [바로가기](https://techblog.yogiyo.co.kr/) | KO |
+| **📍 마켓컬리** | [바로가기](https://helloworld.kurly.com/) | KO |
+| **📍 중고나라** | [바로가기](https://teamblog.joonggonara.co.kr/) | KO |
+| **📍 여기어때** | [바로가기](https://techblog.gccompany.co.kr/) | KO |
+| **📍 데브시스터즈** | [바로가기](https://tech.devsisters.com/) | KO |
 | **📍 왓차**| [바로가기](https://medium.com/watcha)| KO  |
-| **📍 무신사**| [바로가기](https://lnkd.in/g7thd5AB)| KO  |
+| **📍 무신사**| [바로가기](https://medium.com/musinsa-tech)| KO  |
 | **📍 SKT**| [바로가기](https://devocean.sk.com)| KO  |
-| **📍 NCSOFT**| [바로가기](https://lnkd.in/gDSXfVqJ)| KO  |
-| **📍 하이퍼커넥트**| [바로가기](https://lnkd.in/gA3qjM3Q)| KO  |
-| **📍 CJ온스타일**| [바로가기](https://lnkd.in/g-_3yR5N)| KO  |
-| **📍 딜라이트룸**| [바로가기](https://lnkd.in/gpas7zTA)| KO  |
+| **📍 NCSOFT**| [바로가기](https://ncsoft.github.io/ncresearch/blogs/)| KO  |
+| **📍 하이퍼커넥트**| [바로가기](https://hyperconnect.github.io/)| KO  |
+| **📍 CJ온스타일**| [바로가기](https://medium.com/cj-onstyle)| KO  |
+| **📍 딜라이트룸**| [바로가기](https://medium.com/delightroom)| KO  |
 | **📍 버즈빌**| [바로가기](https://tech.buzzvil.com/)| KO  |
-| **📍 구글**| [바로가기](https://lnkd.in/g3-N3S4K)| EN  |
+| **📍 구글**| [바로가기](https://developers.googleblog.com/ko/)| EN  |
 | **📍 구글플레이**| [바로가기](https://lnkd.in/gcmQgM9r)| EN  |
 | **📍 아마존**| [바로가기](https://lnkd.in/gMTN3ZT9)| EN  |
-| **📍 애플**| [바로가기](https://lnkd.in/gD2WMh9s)| EN  |
+| **📍 애플**| [바로가기](https://developer.apple.com/)| EN  |
 | **📍 깃허브**| [바로가기](https://github.blog/)| EN  |
-| **📍 이베이**| [바로가기](https://lnkd.in/gEnQBS3y)| EN  |
-| **📍 페이스북**| [바로가기](https://lnkd.in/gwzw7B8i)| EN  |
+| **📍 이베이**| [바로가기](https://innovation.ebayinc.com/tech/)| EN  |
+| **📍 페이스북**| [바로가기](https://engineering.fb.com/)| EN  |
 | **📍 슬랙**| [바로가기](https://slack.engineering/)| EN  |
-| **📍 트위터**| [바로가기](https://lnkd.in/gEZErirq)| EN  |
-| **📍 에어비앤비**| [바로가기](https://lnkd.in/gabra2mP) | EN  |
+| **📍 X(전 트위터)**| [바로가기](https://blog.twitter.com/engineering/en_us)| EN  |
+| **📍 에어비앤비**| [바로가기](https://medium.com/airbnb-engineering) | EN  |
 | **📍 MS (마이크로소프트)** | [바로가기](https://lnkd.in/gtBnKFjq)| EN  |
 | **📍 우아한 형제들 기술블로그** | [바로가기](https://techblog.woowahan.com/) | KO |
 | **📍 토스 기술 블로그**  | [바로가기](https://toss.tech/) | KO |
